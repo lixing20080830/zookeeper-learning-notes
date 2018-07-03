@@ -22,7 +22,8 @@
 如下图所示<br>
 ![Image text](https://github.com/lixing20080830/zookeeper-learning-notes/raw/master/images-folder/2.png)<br>
 
-9 cmd下进入D:\learning\zookeeper\zookeeper-3.4.10\bin目录下运行zkCli.cmd -server 127.0.0.1:2181.如下图所示<br>
+9 cmd下进入D:\learning\zookeeper\zookeeper-3.4.10\bin目录下运行zkCli.cmd -server 127.0.0.1:2181<br>
+如下图所示<br>
 ![Image text](https://github.com/lixing20080830/zookeeper-learning-notes/raw/master/images-folder/3.png)<br>
 
 参考资料 https://blog.csdn.net/u010317829/article/details/52119281
