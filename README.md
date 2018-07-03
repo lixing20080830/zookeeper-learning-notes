@@ -4,7 +4,8 @@
 
 1 安装JDK<br>
 
-2 安装Zookeeper. 在官网http://zookeeper.apache.org/下载zookeeper.我下载的是zookeeper-3.4.10版本<br>
+2 安装Zookeeper. 在官网http://zookeeper.apache.org/<br>
+下载zookeeper.我下载的是zookeeper-3.4.10版本<br>
 
 3 解压zookeeper-3.4.10到D:\learning\zookeeper<br>
 
